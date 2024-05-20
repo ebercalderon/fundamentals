@@ -20,6 +20,3 @@ int cifras(int numero){
 		return 1+cifras(numero/10);	
 		
 }
-
-
-

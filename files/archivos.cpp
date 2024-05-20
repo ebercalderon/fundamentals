@@ -14,7 +14,7 @@ int main()
     
     do
     {
-        system("cls");
+        system("clear");
         cout<<"\n\t\t\t=========================="
 		    <<"\n\t\t\t....:::: FICHEROS ::::...."
     	    <<"\n\t\t\t==========================\n\n"
